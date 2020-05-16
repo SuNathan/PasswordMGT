@@ -12,4 +12,4 @@ WIP:
 
 - Storing encrypted passwords
 
-<img src="">
+<img src="blob:https://imgur.com/c5dcc3e5-dfe1-45e4-852a-22e4ad7608f1">
